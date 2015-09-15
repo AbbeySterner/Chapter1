@@ -9,6 +9,9 @@ namespace Quotations
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("That's the thing about pain. It demands to be felt.");
+            Console.WriteLine("Augustus Waters");
+
         }
     }
 }
