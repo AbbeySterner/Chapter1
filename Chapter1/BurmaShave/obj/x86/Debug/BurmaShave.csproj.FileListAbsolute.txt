@@ -2,3 +2,7 @@ C:\Users\EAHSCS\Desktop\Chapter1\Chapter1\BurmaShave\bin\Debug\BurmaShave.exe
 C:\Users\EAHSCS\Desktop\Chapter1\Chapter1\BurmaShave\bin\Debug\BurmaShave.pdb
 C:\Users\EAHSCS\Desktop\Chapter1\Chapter1\BurmaShave\obj\x86\Debug\BurmaShave.exe
 C:\Users\EAHSCS\Desktop\Chapter1\Chapter1\BurmaShave\obj\x86\Debug\BurmaShave.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter1\Chapter1\BurmaShave\bin\Debug\BurmaShave.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter1\Chapter1\BurmaShave\bin\Debug\BurmaShave.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter1\Chapter1\BurmaShave\obj\x86\Debug\BurmaShave.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter1\Chapter1\BurmaShave\obj\x86\Debug\BurmaShave.pdb

@@ -11,7 +11,10 @@ namespace Tree
         {
             Console.WriteLine("   x   ");
             Console.WriteLine("  xxx  ");
-            Console.WriteLine
+            Console.WriteLine(" xxxxx ");
+            Console.WriteLine("xxxxxxx");
+            Console.WriteLine("   x   ");
+
         }
     }
 }

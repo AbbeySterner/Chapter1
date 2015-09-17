@@ -9,6 +9,7 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("No Lady Likes\nTo Snuggle\nOr Dine\nAccompanied By\nA Porcupine\nBurma Shave");
         }
     }
 }
